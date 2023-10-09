@@ -4,12 +4,14 @@ border: 5px solid #85097a;
 
 .naldocanal{
 border: 5px solid #098575;
-margin:;
+margin: auto;
+align-content: center;
 }
 
 .bluepen{
 border: 5px dashed #092085;
 margin: auto;
+align-content: center;
 }
 
 .toninhotornado{
