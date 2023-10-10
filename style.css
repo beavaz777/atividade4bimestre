@@ -1,19 +1,25 @@
 .yutakamaeno{
 border: 5px solid #85097a;
 width: 200px;
+height: 40px;
+margin: 10px;
+padding: 10px;
 }
 
 .naldocanal{
 border: 5px solid #098575;
 width: 500px;
 margin: auto;
+padding: 10px;
 text-align: center;
 }
 
 .bluepen{
 border: 5px dashed #092085;
 width: 400px;
+height: 100px;
 margin: auto;
+padding: 10px;
 text-align: center;
 }
 
@@ -21,4 +27,6 @@ text-align: center;
 border: 5px solid #850909;
 width: 600px;
 height: 20rem;
+margin: 20px;
+padding: 20px;
 }
