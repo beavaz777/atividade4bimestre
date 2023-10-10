@@ -7,14 +7,14 @@ width: 200px;
 border: 5px solid #098575;
 width: 500px;
 margin: auto;
-align-content: center;
+text-align: center;
 }
 
 .bluepen{
 border: 5px dashed #092085;
 width: 400px;
 margin: auto;
-align-content: center;
+text-align: center;
 }
 
 .toninhotornado{
